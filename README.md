@@ -1,5 +1,5 @@
-<h2 align="center">Hola 👋, I'm Ruikang "Leo" Guo</h1>
-<h4 align="center">A passionate full-stack developer</h4>
+<h2 align="left">Hola 👋, I'm Ruikang "Leo" Guo</h1>
+<h4 align="left">A passionate full-stack developer</h4>
 <h4 align="left">Quicklook</h4>
 
 - 💪 I’m currently working on [@wavelength](https://github.com/LeoKwo/wavelength)
