@@ -4,11 +4,13 @@
 
 - 💪 I’m currently working on [@wavelength](https://github.com/LeoKwo/wavelength)
 
-- 👨‍💻 My personal website [https://rkguo.xyz](https://rkguo.xyz)
+- 💻 My personal website [https://rkguo.xyz](https://rkguo.xyz)
 
 - 📫 Reach me **leokwok1997@hotmail.com** or **greenkang1234@gmail.com**
 
 - 📄 My resume tells you my [experiences](https://drive.google.com/file/d/1rXbrHh4V5STctQuv77maIHXZIjYn-xUq/view?usp=sharing)
+
+- 💻 Visit my [LeetCode](https://leetcode.com/wjil123/) to check on my progress
 
 - 📸 Fun fact **I am a hobbyist landscape photographer when I am away from computers.**
 
