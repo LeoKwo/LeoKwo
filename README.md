@@ -10,7 +10,7 @@
 
 - 📫 Reach me **leokwok1997@hotmail.com** or **greenkang1234@gmail.com**
 
-- 📄 My resume tells you my [experiences](https://drive.google.com/file/d/1rXbrHh4V5STctQuv77maIHXZIjYn-xUq/view?usp=sharing)
+- 📄 My resume tells you my [experiences](https://drive.google.com/file/d/1L0yE5tx_uMOYAn73LkfZwU4cYhTHknz2/view?usp=sharing)
 
 - 💻 Visit my [LeetCode](https://leetcode.com/wjil123/) to view my progress
 
