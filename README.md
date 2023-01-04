@@ -6,6 +6,8 @@
 
 - 👨🏻‍💻 My personal website [https://rkguo.xyz](https://rkguo.xyz)
 
+- 👨🏻‍💻 Message me on LinkedIn [https://www.linkedin.com/in/ruikang-guo-540742102/](https://www.linkedin.com/in/ruikang-guo-540742102/)
+
 - 📫 Reach me **leokwok1997@hotmail.com** or **greenkang1234@gmail.com**
 
 - 📄 My resume tells you my [experiences](https://drive.google.com/file/d/1rXbrHh4V5STctQuv77maIHXZIjYn-xUq/view?usp=sharing)
@@ -13,6 +15,7 @@
 - 💻 Visit my [LeetCode](https://leetcode.com/wjil123/) to view my progress
 
 - 📸 Fun fact **I am a hobbyist landscape photographer when I am away from computers.**
+
 
 <h4 align="left">My GitHub Overview</h4>
 <p align="left">
