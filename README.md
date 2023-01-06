@@ -4,7 +4,7 @@
 
 - 💪 I’m currently working on [@wavelength](https://github.com/LeoKwo/wavelength)
 
-- 👨🏻‍💻 My personal website [https://rkguo.xyz](https://rkguo.xyz)
+- 👨🏻‍💻 My personal website [https://rkguo.xyz](https://rkguo.xyz). Help me improve it [here](https://github.com/LeoKwo/personal-website).
 
 - 👨🏻‍💻 Message me on LinkedIn [https://www.linkedin.com/in/ruikang-guo-540742102/](https://www.linkedin.com/in/ruikang-guo-540742102/)
 
