@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋, I'm Ruikang "Leo" Guo</h1>
+<h2 align="left">Hello 👋, I'm Ruikang "Leo" Guo</h1>
 <h4 align="left">A passionate full-stack developer</h4>
 <h4 align="left">Quicklook</h4>
 
