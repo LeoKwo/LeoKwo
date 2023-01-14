@@ -12,7 +12,7 @@
 
 - 📄 My resume tells you my [experiences](https://drive.google.com/file/d/1L0yE5tx_uMOYAn73LkfZwU4cYhTHknz2/view?usp=sharing)
 
-- 💻 Visit my [LeetCode](https://leetcode.com/wjil123/) to view my progress
+- 💻 Visit my [LeetCode](https://leetcode.com/leokwo/) to view my progress
 
 - 📸 Fun fact **I am a hobbyist landscape photographer when I am away from computers.**
 
