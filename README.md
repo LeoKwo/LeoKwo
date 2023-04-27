@@ -2,7 +2,7 @@
 <h4 align="left">A passionate full-stack developer</h4>
 <h4 align="left">Quicklook</h4>
 
-- 💪 I’m currently working on [@wavelength](https://github.com/LeoKwo/wavelength)
+- 💪 I’m currently working on [@SpringSecurity](https://github.com/LeoKwo/Springsecurity)
 
 - 👨🏻‍💻 My personal website [https://rkguo.xyz](https://rkguo.xyz). Help me improve it [here](https://github.com/LeoKwo/personal-website).
 
