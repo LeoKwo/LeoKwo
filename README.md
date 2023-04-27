@@ -8,7 +8,7 @@
 
 - 👨🏻‍💻 Message me on LinkedIn [https://www.linkedin.com/in/ruikang-guo-540742102/](https://www.linkedin.com/in/ruikang-guo-540742102/)
 
-- 📫 Reach me **leokwok1997@hotmail.com** or **greenkang1234@gmail.com**
+- 📫 Reach me at **leokwok1997@hotmail.com**
 
 - 📄 My resume tells you my [experiences](https://drive.google.com/file/d/1L0yE5tx_uMOYAn73LkfZwU4cYhTHknz2/view?usp=sharing)
 
