@@ -4,15 +4,13 @@
 
 - 💪 I’m currently working on [@SpringSecurity](https://github.com/LeoKwo/Springsecurity)
 
-- 👨🏻‍💻 My personal website [https://rkguo.xyz](https://rkguo.xyz). Help me improve it [here](https://github.com/LeoKwo/personal-website).
+- 💻 Visit my [personal website](https://rkguo.xyz/). Help me improve it [here](https://github.com/LeoKwo/personal-website).
 
 - 👨🏻‍💻 Message me on LinkedIn [https://www.linkedin.com/in/ruikang-guo-540742102/](https://www.linkedin.com/in/ruikang-guo-540742102/)
 
 - 📫 Reach me at **leokwok1997@hotmail.com**
 
 - 📄 My resume tells you my [experiences](https://drive.google.com/file/d/18zmQrS1l3WiRqZBN5gD-9Xp1lEdCzWNr/view?usp=share_link)
-
-- 💻 Visit my [personal website](https://rkguo.xyz/)
 
 - 📸 Fun fact **I am a hobbyist landscape photographer**. Check out my gallery [here](https://rkguo.xyz/photography)
 
