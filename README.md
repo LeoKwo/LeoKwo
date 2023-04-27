@@ -12,9 +12,9 @@
 
 - 📄 My resume tells you my [experiences](https://drive.google.com/file/d/18zmQrS1l3WiRqZBN5gD-9Xp1lEdCzWNr/view?usp=share_link)
 
-- 💻 Visit my [LeetCode](https://leetcode.com/leokwo/) to view my progress
+- 💻 Visit my [personal website](https://rkguo.xyz/)
 
-- 📸 Fun fact **I am a hobbyist landscape photographer when I am away from computers.**
+- 📸 Fun fact **I am a hobbyist landscape photographer**. Check out my gallery [here](https://rkguo.xyz/photography)
 
 
 <h4 align="left">My GitHub Overview</h4>
