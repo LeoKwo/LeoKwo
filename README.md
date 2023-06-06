@@ -19,8 +19,6 @@
 <p align="left">
 </p>
 
-[![Ruikang Guo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leokwo&show_icons=true&theme=radical&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leokwo&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leokwo&theme=darkhub&no-frame=false&margin-w=15&margin-h=10&row=1" alt="leokwo" /></a> </p>
 
 <h4 align="left">Languages and Tools</h4>
