@@ -2,7 +2,7 @@
 <h4 align="left">A passionate full-stack developer</h4>
 <h4 align="left">Quicklook</h4>
 
-- 💪 I’m currently working on [@chatbot_api](https://github.com/LeoKwo/chatbot_api) and [@AI_powered_tools](https://github.com/LeoKwo/AI_powered_tools)
+- 💪 I’m currently working on [@AI_powered_tools](https://github.com/LeoKwo/AI_powered_tools)
 
 - 💻 Visit my [personal website](https://rkguo.xyz/). Help me improve it [here](https://github.com/LeoKwo/personal-website).
 
