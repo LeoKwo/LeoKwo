@@ -2,7 +2,7 @@
 <h4 align="left">A passionate full-stack developer</h4>
 <h4 align="left">Quicklook</h4>
 
-- 💪 I’m currently working on a Chatbot project - powered by ChatGPT and your own data - more to come...
+- 💪 I’m currently working on a Chatbot project - powered by ChatGPT and my own data. Check out the repo [here](https://github.com/LeoKwo/chatbot_rkguo)
 
 - 💻 Visit my [personal website](https://rkguo.xyz/). Help me improve it [here](https://github.com/LeoKwo/personal-website).
 
