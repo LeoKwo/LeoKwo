@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **leokwok1997@hotmail.com**
 
-- 📄 My resume tells you my [experiences](https://drive.google.com/file/d/18zmQrS1l3WiRqZBN5gD-9Xp1lEdCzWNr/view?usp=share_link)
+- 📄 My resume tells you my [experiences](https://cw6g.short.gy/resume)
 
 - 📸 Fun fact **I am a hobbyist landscape photographer**. Check out my gallery [here](https://rkguo.xyz/photography)
 
