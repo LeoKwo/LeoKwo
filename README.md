@@ -1,5 +1,5 @@
 <h2 align="left">Hello 👋, I'm Ruikang "Leo" Guo</h1>
-<h4 align="left">Full-stack Engineer, now focusing on GenAI development</h4>
+<h4 align="left">Full-stack engineer, now focusing on GenAI development</h4>
 <h4 align="left">Quicklook</h4>
 
 - 💪 I’m currently working on a Chatbot project - powered by ChatGPT and my own data. Check out the repo [here](https://github.com/LeoKwo/chatbot_rkguo)
