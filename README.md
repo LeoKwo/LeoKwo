@@ -2,7 +2,7 @@
 <h4 align="left">Full-stack engineer, now focusing on GenAI development</h4>
 <h4 align="left">Quicklook</h4>
 
-- 💪 I’m currently working on a Chatbot project - powered by ChatGPT and my own data. Check out the repo [here](https://github.com/LeoKwo/chatbot_rkguo)
+- 💪 I’m currently working on a Chatbot project - powered by GPT 3.5 Turbo and my own data. Check out the repo [here](https://github.com/LeoKwo/chatbot_rkguo)
 
 - 💻 Visit my [personal website](https://rkguo.xyz/). Help me improve it [here](https://github.com/LeoKwo/personal-website).
 
