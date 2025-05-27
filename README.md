@@ -5,7 +5,7 @@
 - 💪 I’m currently working on a lateral thinking puzzle generation game powered by LLMs. Check it out [here](https://github.com/LeoKwo/turtle-soup)
 
 - 💻 Visit my [personal website](https://rkguo.xyz/). Help me improve it [here](https://github.com/LeoKwo/personal-website).
-  - 访问[中文站](https://ruikang.tech/).
+  - 访问[中文站](https://ruikang.tech/) (无需科学上网).
 
 - 👨🏻‍💻 Message me on LinkedIn [https://www.linkedin.com/in/ruikang-guo-540742102/](https://www.linkedin.com/in/ruikang-guo-540742102/)
 
